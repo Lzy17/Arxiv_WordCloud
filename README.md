@@ -6,5 +6,8 @@ Enter a KeyWord (such as Machine Learning), my code will generate a WordCloud pi
 
 Target.png will determine the shape of you WordCloud change it if you like
 
-To run the code do: chmod -x start.sh
-                    ./start.sh
+To run the code do: 
+
+chmod -x start.sh
+
+./start.sh
