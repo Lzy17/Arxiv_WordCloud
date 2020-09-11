@@ -4,7 +4,7 @@ Enter a KeyWord (such as Machine Learning), my code will generate a WordCloud pi
 
 
 
-Target.png will determine the shape of you WordCloud change it if you like
+Target.png will determine the shape of you WordCloud.
 
 To run the code do: 
 
