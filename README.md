@@ -13,7 +13,7 @@ chmod -x start.sh
 ./start.sh
 
 
-###Examples
+## Examples
    
  ![1](https://github.com/Lzy17/Arxiv_WordCloud/blob/master/examples/Quantumphysics.png)
  ![2](https://github.com/Lzy17/Arxiv_WordCloud/blob/master/examples/ML_wordcloud.png) 
