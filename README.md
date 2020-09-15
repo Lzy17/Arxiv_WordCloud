@@ -1,5 +1,5 @@
 # Arxiv_WordCloud
-Enter a KeyWord (such as Machine Learning), my code will generate a WordCloud picture of that keyword's related field of study(like quantum physics, sound processing, astrophysics, etc)
+Enter a KeyWord (such as Machine Learning), my code will scrape through arxiv,org and get all the related fields of study(like quantum physics, sound processing, astrophysics, etc) of that KeyWord and generate a WordCloud picture based on those related field of study.
 
 
 
